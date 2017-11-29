@@ -1,4 +1,4 @@
-# Conway-s-Game-of-Life
+# Conways-Game-of-Life
 
 ### Test Inputs
 Beacon: ````[(3, 3), (4, 3), (3, 4), (6, 6), (5, 6), (6, 5)]````    
