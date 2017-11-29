@@ -1,4 +1,3 @@
-import System.Environment
 import Game
 
 -- newline x xRange takes an integer x and an array of integers xRange and returns a newline if x is the max
