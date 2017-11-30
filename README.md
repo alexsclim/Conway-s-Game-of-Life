@@ -1,10 +1,10 @@
 # Conways-Game-of-Life  
   
 ## How to start
-1) To compile and load the program, run
+1) To compile and load the program, run  
    ````ghci Main.hs````
   
-2) When given the Haskell interpreter, run
+2) When given the Haskell interpreter, run  
    ````main````
 
 ### Test Inputs for initial alive cells
